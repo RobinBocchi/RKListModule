@@ -1,0 +1,22 @@
+{
+  "name": "RKListModule",
+  "version": "0.1.0",
+  "summary": "A short description of RKListModule.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/beedroid/RKListModule",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "beedroid": "beedroid@163.com"
+  },
+  "source": {
+    "git": "https://github.com/beedroid/RKListModule.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "RKListModule/Classes/**/*"
+}

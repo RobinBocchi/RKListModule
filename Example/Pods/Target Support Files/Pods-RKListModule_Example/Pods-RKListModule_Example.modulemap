@@ -1,0 +1,6 @@
+framework module Pods_RKListModule_Example {
+  umbrella header "Pods-RKListModule_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

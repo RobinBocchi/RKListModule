@@ -1,0 +1,16 @@
+PODS:
+  - RKListModule (0.1.0)
+
+DEPENDENCIES:
+  - RKListModule (from `../`)
+
+EXTERNAL SOURCES:
+  RKListModule:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  RKListModule: 34e352d61b8d6230a11e87e3481a6c5be49bf564
+
+PODFILE CHECKSUM: 8a599a997d92f8332fa61a7f4adc645d188efc1a
+
+COCOAPODS: 1.8.4
